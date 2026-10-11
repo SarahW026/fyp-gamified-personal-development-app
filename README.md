@@ -98,7 +98,7 @@ All gamification rules are evaluated on the **backend**, making the frontend a p
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Sarahw54545/fyp-gamified-personal-development-app.git
+git clone https://github.com/SarahW026/fyp-gamified-personal-development-app.git
 ```
 2. Install dependencies:
 - **Frontend**
@@ -132,9 +132,9 @@ npm run dev
 
 The gamification logic used in Stellara is designed as a **modular backend engine** and has been published as a standalone repository for public use.
 
-➡️ **Gamification Engine Repository:** [gamification-engine.js](https://github.com/Sarahw54545/gamification-engine-js/)
+➡️ **Gamification Engine Repository:** [gamification-engine.js](https://github.com/SarahW026/gamification-engine-js/)
 
-📘 **Documentation:** [Github Pages Site](https://sarahw54545.github.io/gamification-engine-js/)
+📘 **Documentation:** [Github Pages Site](https://sarahw026.github.io/gamification-engine-js/)
 
 This engine can be reused in other applications that require achievement‑based progression systems.
 
