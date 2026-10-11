@@ -89,13 +89,13 @@ function About() {
                                 name: "Stellara",
                                 description:
                                     "Full-stack personal development application integrating gamification techniques to encourage long-term engagement.",
-                                link: "https://github.com/Sarahw54545/fyp-gamified-personal-development-app"
+                                link: "https://github.com/SarahW026/fyp-gamified-personal-development-app"
                             },
                             {
                                 name: "Gamification Engine",
                                 description:
                                     "Reusable backend system for implementing achievement and XP-based progression logic across applications.",
-                                link: "https://github.com/Sarahw54545/gamification-engine-js"
+                                link: "https://github.com/SarahW026/gamification-engine-js"
                             }
                         ].map((project) => (
                             <div
@@ -130,7 +130,7 @@ function About() {
                     <div className="grid gap-6 md:grid-cols-3">
 
                         {[
-                            { icon: "/github.png", label: "GitHub", link: "https://github.com/Sarahw54545" },
+                            { icon: "/github.png", label: "GitHub", link: "https://github.com/SarahW026" },
                             { icon: "/email.png", label: "Email", link: "mailto:swalsh54545@gmail.com" },
                             { icon: "/linkedIn.png", label: "LinkedIn", link: "https://www.linkedin.com/in/sarahwalsh026/" }
                         ].map((item, i) => (

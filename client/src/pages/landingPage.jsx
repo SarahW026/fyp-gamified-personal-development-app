@@ -235,7 +235,7 @@ function LandingPage() {
 
                     <div className="flex flex-col md:flex-row justify-center gap-4">
                         <a
-                            href="https://github.com/Sarahw54545/fyp-gamified-personal-development-app"
+                            href="https://github.com/SarahW026/fyp-gamified-personal-development-app"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="px-6 py-3 border border-white rounded-lg hover:bg-white hover:text-black hover:scale-105 transition-transform duration-200"
@@ -244,7 +244,7 @@ function LandingPage() {
                         </a>
 
                         <a
-                            href="https://github.com/Sarahw54545/gamification-engine-js"
+                            href="https://github.com/SarahW026/gamification-engine-js"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="px-6 py-3 border border-white rounded-lg hover:bg-white hover:text-black hover:scale-105 transition-transform duration-200"
@@ -269,7 +269,7 @@ function LandingPage() {
 
                     <div className="flex justify-center gap-6">
                         <a
-                            href="https://github.com/Sarahw54545"
+                            href="https://github.com/SarahW026"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="hover:scale-110 transition"
